@@ -1,0 +1,1 @@
+# kognar-release-hashs
