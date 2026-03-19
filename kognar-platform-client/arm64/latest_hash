@@ -1,6 +1,6 @@
 latest:
-    hash: 643472988575afbcdb36f79cf1e17ec714fc9f4ba0ee6c9aad53b4363a7599e4
+    hash: 05c0b69a791072d0190373d30768e9ad0bfddcc496a7b46a6767db698832c427
     algorithm: sha256
-    version: v1.4.0
+    version: v1.4.1
     file: latest-arm64.dmg
-    size: 306.71 MB
+    size: 314.74 MB
