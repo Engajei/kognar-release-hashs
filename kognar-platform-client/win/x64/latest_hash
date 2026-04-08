@@ -1,6 +1,6 @@
 latest:
-    hash: 44578ba0cecc121811666352ca4d41bc46d6724036802d9e445ce7967885ca2d
+    hash: 1280f908519d95023c1f386d01f34652fa2eda694f50f93f637379be238eb52b
     algorithm: sha256
-    version: v1.4.1
+    version: v1.4.2
     file: latest.exe
-    size: 236.92 MB
+    size: 237.05 MB
